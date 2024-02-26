@@ -1,2 +1,2 @@
 # data_science
-ini respositori untuk data science
+direktori ini akan diisi berbagai projek sederhana
